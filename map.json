@@ -67,7 +67,18 @@
          "draworder":"topdown",
          "id":21,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":2046.66666666667,
+                 "id":28,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":2017.33333333333,
+                 "x":0.666666666666667,
+                 "y":1.33333333333333
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -87,7 +98,7 @@
          "y":0
         }],
  "nextlayerid":22,
- "nextobjectid":28,
+ "nextobjectid":29,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.1",
